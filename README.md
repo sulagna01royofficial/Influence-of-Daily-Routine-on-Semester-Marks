@@ -159,8 +159,8 @@ This dissertation is submitted as partial fulfillment of Bachelor of Science (St
 
 For questions or clarifications about this research:
 - Email: sulagna01royofficial@gmail.com
-- GitHub: @sulagna01royofficial
-
+- GitHub: https://github.com/sulagna01royofficial
+- LinkedIn: www.linkedin.com/in/sulagna01-roy
 ---
 
 ## 📚 References
